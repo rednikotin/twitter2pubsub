@@ -1,0 +1,10 @@
+app {
+  consumerKey = "consumerKey"
+  consumerSecret = "consumerSecret"
+  accessToken = "accessToken"
+  accessTokenSecret = "accessTokenSecret"
+
+  projectId = "projectId"
+  topic = "topic"
+  key = "key.json"
+}
